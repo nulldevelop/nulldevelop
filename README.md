@@ -22,8 +22,9 @@
 const pedro = {
     nome: "Pedro Andrade",
     formacao: "Análise e Desenvolvimento de Sistemas",
-    stack: ["Next.js 15", "React 19", "TailwindCSS 4", "Prisma 6", "MySQL 8"],
-    qualidade: ["TypeScript 5", "Biome", "Vitest", "Testing Library"],
+    stack: ["Next.js", "React", "TypeScript", "TailwindCSS", "Prisma", "MySQL", "Docker"],
+    qualidade: ["Vitest", "Biome"],
+    deploy: ["AWS", "Vercel", "Azure"],
     foco: "Código limpo, UI responsiva e sistemas que funcionam de verdade",
     filosofia: "Não sou apaixonado por tecnologia desde pequeno — sou apaixonado por resolver problemas."
 };
