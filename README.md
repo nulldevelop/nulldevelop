@@ -1,126 +1,152 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Pedro%20Andrade&fontSize=36&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=16&descColor=8b949e&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:1a1508&height=200&section=header&text=Pedro%20Andrade&fontSize=44&fontColor=c9a84c&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%97%86%20Gov%20SaaS%20%E2%97%86%20Next.js%20%2F%20TypeScript%20%2F%20Prisma&descSize=14&descColor=8b8070&descAlignY=58"/>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Ol%C3%A1!+%F0%9F%91%8B+Me+chamo+Pedro+Andrade;Full+Stack+Developer;Next.js+%7C+React+%7C+Prisma+%7C+MySQL;Transformando+ideias+em+solu%C3%A7%C3%B5es+reais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=C9A84C&center=true&vCenter=true&random=false&width=620&lines=%E2%97%86+Sistemas+reais+em+produ%C3%A7%C3%A3o+%E2%80%94+n%C3%A3o+s%C3%B3+portf%C3%B3lio;Next.js+%7C+TypeScript+%7C+Prisma+%7C+MySQL+%7C+Linux;Construindo+o+setor+p%C3%BAblico+com+c%C3%B3digo+limpo;null.dev+%E2%80%94+Do+conceito+ao+produto+final)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.nullphr.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-nullphr.com.br-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://nulldev.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%97%86%20nulldev.com.br-c9a84c?style=for-the-badge&logoColor=0a0a0a&labelColor=c9a84c&color=0a0a0a"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pedrodevfull/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=c9a84c"/>
+  </a>
+  &nbsp;
+  <a href="mailto:contato.pedrodevfullstack@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=c9a84c"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/5541991798303" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=c9a84c"/>
   </a>
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28"/> &nbsp;Sobre mim
+---
+
+## ◆ &nbsp;Sobre mim
 
 ```ts
 const pedro = {
-    nome: "Pedro Andrade",
-    formacao: "Análise e Desenvolvimento de Sistemas",
-    stack: ["Next.js", "React", "TypeScript", "TailwindCSS", "Prisma", "MySQL", "Docker"],
-    qualidade: ["Vitest", "Biome"],
-    deploy: ["AWS", "Vercel", "Azure"],
-    foco: "Código limpo, UI responsiva e sistemas que funcionam de verdade",
-    filosofia: "Não sou apaixonado por tecnologia desde pequeno — sou apaixonado por resolver problemas."
+  nome    : "Pedro Andrade",
+  empresa : "Null Development — nulldev.com.br",
+  local   : "Campina Grande do Sul, PR — Brasil",
+  foco    : "SaaS para o setor público + sistemas web de alta produção",
+
+  stack: {
+    frontend : ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui"],
+    backend  : ["Prisma ORM", "Node.js", "Better Auth", "Zod"],
+    database : ["MySQL", "MariaDB", "PostgreSQL"],
+    devops   : ["Nginx", "PM2", "VPS", "GitHub Actions", "Docker"],
+    qualidade: ["Vitest", "Biome", "tsc"],
+  },
+
+  emProducao: ["SIRA", "FootEasy", "BookEase", "SIBEA"],
+  filosofia : "Não sou apaixonado por tecnologia desde pequeno — sou apaixonado por resolver problemas.",
 };
 ```
 
+> *Código limpo, solução clara e entrega de verdade.*
+
+---
+
+## ◆ &nbsp;Sistemas em Produção
+
+> Não são projetos de estudo. São sistemas usados diariamente por servidores públicos e cidadãos.
+
 <br/>
 
-> *Aprendo rápido, erro, ajusto e evoluo no processo.*
-> *Se você busca alguém comprometido, prático e que entrega — bora conversar* 🚀
+<div align="center">
 
-<br/>
+| Sistema | Descrição | Stack |
+|:--|:--|:--|
+| **[SIRA](https://sira.pmcgs.pr.gov.br)** | Gestão de contratos, licitações e fiscalização pública com RBAC completo | Next.js · Prisma · MySQL · Azure AD |
+| **FootEasy** | Plataforma de campeonatos municipais — tabelas, súmulas e validação de atletas | Next.js · TypeScript · MariaDB |
+| **BookEase** | SaaS multi-tenant de gestão de bibliotecas para prefeituras | Next.js · Prisma · Better Auth |
+| **SIBEA** | Sistema institucional de bem-estar animal — adoção e controle de zoonoses | Next.js · TypeScript · MySQL |
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> &nbsp;Tech Stack
+</div>
+
+---
+
+## ◆ &nbsp;Tech Stack
 
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&theme=dark" />
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,azure&theme=dark" />
+### Backend & Banco de Dados
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres&theme=dark" />
 
-### Qualidade de Codigo
-<img src="https://skillicons.dev/icons?i=ts,vitest&theme=dark" />
+### DevOps & Infra
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,github,githubactions&theme=dark" />
 
-### Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+### Qualidade & Ferramentas
+<img src="https://skillicons.dev/icons?i=vitest,vscode,azure,vercel&theme=dark" />
 
 </div>
 
-<br/>
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28"/> &nbsp;GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devpedroA&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedroA&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-</div>
-
-<br/>
+## ◆ &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpedroA&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=devpedroA&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&icon_color=b8973a&text_color=8b8070&ring_color=c9a84c" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedroA&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&text_color=8b8070" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devpedroA&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
-</div>
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="28"/> &nbsp;Contato
-
-<div align="center">
-
-<a href="https://wa.me/5541991798303" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="mailto:contato.pedrodevfullstack@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/devpedroA" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/pedrodevfull/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/pex.ph/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.nullphr.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpedroA&theme=github-dark-blue&hide_border=true&background=0a0a0a&stroke=c9a84c&ring=c9a84c&fire=b8973a&currStreakLabel=c9a84c&sideLabels=8b8070&currStreakNum=e8e8e0&sideNums=e8e8e0&dates=8b8070" />
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devpedroA&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=c9a84c&line=b8973a&point=c9a84c&area=true&area_color=1a1508" />
+</div>
 
-  ![Snake animation](https://raw.githubusercontent.com/devpedroA/devpedroA/output/github-snake-dark.svg)
+---
 
+## ◆ &nbsp;Formação
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 🎓 **Análise e Desenvolvimento de Sistemas** | UFBRA — cursando |
+| 🏛️ **Sistemas em produção para Prefeitura de CGS** | 3+ anos de experiência |
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/devpedroA/devpedroA/output/github-snake-dark.svg)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=devpedroA&color=c9a84c&style=for-the-badge&label=VISITAS+NO+PERFIL&labelColor=0a0a0a"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devpedroA&color=1f6feb&style=for-the-badge&label=VISITAS+NO+PERFIL"/>
+  <sub><i>◆ &nbsp;"Do conceito ao produto — velocidade, qualidade e resultado real." &nbsp;◆</i></sub>
 </div>
 
 <br/>
 
-<div align="center">
-  <i>"Código limpo, solução clara e entrega de verdade."</i>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1508,50:111111,100:0a0a0a&height=120&section=footer"/>
