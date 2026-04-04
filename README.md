@@ -249,15 +249,15 @@ Gestão institucional de bem-estar animal para prefeituras — controle de adoç
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devpedroA&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&icon_color=b8973a&text_color=8b8070&ring_color=c9a84c&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedroA&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&text_color=8b8070&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nulldevelop&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&icon_color=b8973a&text_color=8b8070&ring_color=c9a84c&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulldevelop&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&text_color=8b8070&langs_count=8" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpedroA&theme=github-dark-blue&hide_border=true&background=0a0a0a&stroke=c9a84c&ring=c9a84c&fire=b8973a&currStreakLabel=c9a84c&sideLabels=8b8070&currStreakNum=e8e8e0&sideNums=e8e8e0&dates=8b8070" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nulldevelop&theme=github-dark-blue&hide_border=true&background=0a0a0a&stroke=c9a84c&ring=c9a84c&fire=b8973a&currStreakLabel=c9a84c&sideLabels=8b8070&currStreakNum=e8e8e0&sideNums=e8e8e0&dates=8b8070" />
 </div>
 
 <br/>
@@ -267,7 +267,7 @@ Gestão institucional de bem-estar animal para prefeituras — controle de adoç
 <!---------------------------------------------------------------------------->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devpedroA&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=c9a84c" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nulldevelop&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=c9a84c" />
 </div>
 
 <br/>
@@ -277,7 +277,7 @@ Gestão institucional de bem-estar animal para prefeituras — controle de adoç
 <!---------------------------------------------------------------------------->
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devpedroA&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=c9a84c&line=b8973a&point=c9a84c&area=true&area_color=1c1500" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nulldevelop&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=c9a84c&line=b8973a&point=c9a84c&area=true&area_color=1c1500" />
 </div>
 
 <br/>
@@ -297,13 +297,13 @@ Gestão institucional de bem-estar animal para prefeituras — controle de adoç
 <!---------------------------------------------------------------------------->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devpedroA/devpedroA/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/nulldevelop/nulldevelop/output/github-snake-dark.svg" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devpedroA&color=c9a84c&style=for-the-badge&label=VISITAS+NO+PERFIL&labelColor=0a0a0a"/>
+  <img src="https://komarev.com/ghpvc/?username=nulldevelop&color=c9a84c&style=for-the-badge&label=VISITAS+NO+PERFIL&labelColor=0a0a0a"/>
 </div>
 
 <br/>
