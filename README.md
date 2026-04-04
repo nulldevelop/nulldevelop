@@ -292,16 +292,6 @@ Gestão institucional de bem-estar animal para prefeituras — controle de adoç
 
 <br/>
 
-<!---------------------------------------------------------------------------->
-<!--  SNAKE + FOOTER                                                         -->
-<!---------------------------------------------------------------------------->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nulldevelop/nulldevelop/output/github-snake-dark.svg" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nulldevelop&color=c9a84c&style=for-the-badge&label=VISITAS+NO+PERFIL&labelColor=0a0a0a"/>
 </div>
