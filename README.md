@@ -266,11 +266,6 @@ Gestão institucional de bem-estar animal para prefeituras — controle de adoç
 <!--  TROPHIES                                                               -->
 <!---------------------------------------------------------------------------->
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nulldevelop&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=c9a84c" />
-</div>
-
-<br/>
 
 <!---------------------------------------------------------------------------->
 <!--  ACTIVITY GRAPH                                                         -->
