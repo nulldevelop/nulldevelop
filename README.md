@@ -26,13 +26,13 @@
   <a href="https://linkedin.com/in/pedrodevfull">
     <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=c9a84c" />
   </a>
-  <a href="mailto:contato.pedrodevfullstack@gmail.com">
+  <a href="mailto:contato.nulldev.com.br">
     <img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=c9a84c" />
   </a>
   <a href="https://wa.me/5541991798303">
     <img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=c9a84c" />
   </a>
-  <a href="https://github.com/devpedroA">
+  <a href="https://github.com/nulldevelop">
     <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=c9a84c" />
   </a>
 
