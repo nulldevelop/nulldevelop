@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=C9A84C&center=true&vCenter=true&random=false&width=640&lines=Real+systems+in+production+%E2%80%94+not+just+portfolio+projects.;Next.js+%7C+TypeScript+%7C+Prisma+%7C+MySQL+%7C+Linux;4+active+and+growing+municipal+SaaS+platforms.;null.dev+%E2%80%94+From+concept+to+final+product.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=C9A84C&center=true&vCenter=true&random=false&width=640&lines=Real+systems+in+production+%E2%80%94+not+just+portfolio+projects.;Next.js+%7C+TypeScript+%7C+Prisma+%7C+MySQL+%7C+Linux;5+active+and+growing+municipal+SaaS+platforms.;null.dev+%E2%80%94+From+concept+to+final+product.)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,19 +22,19 @@
 
 <a href="https://nulldev.com.br">
 <img src="https://img.shields.io/badge/◆ nulldev.com.br-0a0a0a?style=for-the-badge&logoColor=c9a84c&color=c9a84c&labelColor=0a0a0a" />
-</a>a>
+</a>
 <a href="https://linkedin.com/in/pedrodevfull">
 <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=c9a84c" />
-</a>a>
-<a href="mailto:contato.nulldev.com.br">
+</a>
+<a href="mailto:contato@nulldev.com.br">
 <img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=c9a84c" />
-</a>a>
+</a>
 <a href="https://wa.me/5541991798303">
 <img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=c9a84c" />
-</a>a>
+</a>
 <a href="https://github.com/nulldevelop">
 <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=c9a84c" />
-</a>a>
+</a>
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>div>
+</div>
 
 <br/>
 
@@ -71,7 +71,7 @@ const pedro: Developer = {
     quality  : ["Vitest", "Biome", "TypeScript strict"],
   },
 
-  inProduction: ["SIRA", "FootEasy", "BookEase", "SIBEA"],
+  inProduction: ["SIRA", "FootEasy", "SIBEA", "SME"],
   education   : "Systems Analysis and Development · UFBRA",
   philosophy  : "I'm not passionate about technology — I'm passionate about solving problems.",
 };
@@ -87,7 +87,7 @@ const pedro: Developer = {
 
 | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; |
 |:---:|:---:|:---:|:---:|
-| **3+** | **4** | **20+** | **100%** |
+| **3+** | **5** | **20+** | **100%** |
 | years of experience | SaaS in production | technologies | satisfied clients |
 
 </div>
@@ -100,7 +100,7 @@ const pedro: Developer = {
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>div>
+</div>
 
 <br/>
 
@@ -121,179 +121,199 @@ const pedro: Developer = {
     <td width="50%" valign="top">
 
       ### ◆ &nbsp;[SIRA](https://sira.pmcgs.pr.gov.br)
-      **Integrated Administrative Records System**
+      **Integrated Administrative Records System** &nbsp;·&nbsp; `active`
 
-      Bidding, contracts and public oversight management platform with full RBAC, specialized dashboards and Azure AD SSO integration.
+      Public contract oversight platform with digitally signed PDF reports, QR Code for public verification, full RBAC and Azure AD SSO integration with the Transparency Portal.
+
+      ![Next.js](https://img.shields.io/badge/Next.js_15-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
+      ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
+      ![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
+      ![MySQL](https://img.shields.io/badge/MySQL_8-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
+      ![Azure](https://img.shields.io/badge/Azure_AD-0a0a0a?style=flat-square&logo=microsoftazure&logoColor=c9a84c)
+
+    </td>
+    <td width="50%" valign="top">
+
+      ### ◆ &nbsp;FootEasy
+      **Municipal Championship Management** &nbsp;·&nbsp; `active`
+
+      Sports competition management system in production with 772 members, 24 teams and 693 registered athletes. Includes bracket generation, digital match reports and athlete validation.
 
       ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
       ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
       ![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
       ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
-      ![Azure](https://img.shields.io/badge/Azure_AD-0a0a0a?style=flat-square&logo=microsoftazure&logoColor=c9a84c)
+      ![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=c9a84c)
 
-      </td>
-      <td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-      ### ◆ &nbsp;FootEasy
-      **Municipal Championship Management**
+      ### ◆ &nbsp;SIBEA
+      **Animal Welfare System** &nbsp;·&nbsp; `active`
 
-      Full-featured platform for soccer tournaments with bracket generation, digital match reports, athlete validation and admin panel.
+      Multi-tenant SaaS for municipal animal welfare management with RBAC across five profiles, microchip tracking and public REST API for adoption portals.
 
       ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
+      ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
+      ![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
+      ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
+      ![Better Auth](https://img.shields.io/badge/Better_Auth-0a0a0a?style=flat-square&logoColor=c9a84c)
+      ![Radix UI](https://img.shields.io/badge/Radix_UI-0a0a0a?style=flat-square&logo=radixui&logoColor=c9a84c)
+
+    </td>
+    <td width="50%" valign="top">
+
+      ### ◆ &nbsp;SME
+      **Municipal Sports Schools System** &nbsp;·&nbsp; `in development`
+
+      Management platform for municipal sports schools with class and attendance control, medical records, automatic waitlist and full audit trail.
+
+      ![Next.js](https://img.shields.io/badge/Next.js_15-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
       ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
       ![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
       ![MariaDB](https://img.shields.io/badge/MariaDB-0a0a0a?style=flat-square&logo=mariadb&logoColor=c9a84c)
+      ![Better Auth](https://img.shields.io/badge/Better_Auth-0a0a0a?style=flat-square&logoColor=c9a84c)
+      ![Vitest](https://img.shields.io/badge/Vitest-0a0a0a?style=flat-square&logo=vitest&logoColor=c9a84c)
 
-      </td>
-      </tr>
-      <tr>
-      <td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
       ### ◆ &nbsp;BookEase
-      **Multi-tenant Library SaaS**
+      **Multi-tenant Library SaaS** &nbsp;·&nbsp; `completed · Nov 2025`
 
-      Collection and lending management system for municipalities, with multi-tenant authentication and per-unit dashboard.
+      Collection and lending management for municipalities with DDC classification, PDF reports and Azure AD authentication. Delivered and handed off.
 
-      ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
+      ![Next.js](https://img.shields.io/badge/Next.js_15-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
       ![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
       ![Better Auth](https://img.shields.io/badge/Better_Auth-0a0a0a?style=flat-square&logoColor=c9a84c)
-      ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
+      ![MySQL](https://img.shields.io/badge/MySQL_8-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
+      ![Chart.js](https://img.shields.io/badge/Chart.js-0a0a0a?style=flat-square&logo=chartdotjs&logoColor=c9a84c)
 
-      </td>
-      <td width="50%" valign="top">
-
-      ### ◆ &nbsp;SIBEA
-      **Animal Welfare System**
-
-      Institutional animal welfare management for municipalities — adoption control, zoonosis tracking and shelter animal management.
-
-      ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
-      ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
-      ![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
-      ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
-
-      </td>
-      </tr>
-      </table>
-
-      </div>
-
-      <br/>
-
-      <!---------------------------------------------------------------------------->
-      <!-- DIVIDER -->
-      <!---------------------------------------------------------------------------->
-
-      <div align="center">
-      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-      </div>
-
-      <br/>
-
-      <!---------------------------------------------------------------------------->
-      <!-- TECH STACK -->
-      <!---------------------------------------------------------------------------->
-
-      ## &nbsp;`$ cat ./stack.json`
-
-      <div align="center">
-
-      <table>
-      <tr>
-      <td align="center" width="25%">
-
-      **Frontend**<br/>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
-
-      </td>
-      <td align="center" width="25%">
-
-      **Backend & DB**<br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres&theme=dark" />
-
-      </td>
-      <td align="center" width="25%">
-
-      **DevOps & Infra**<br/>
-      <img src="https://skillicons.dev/icons?i=linux,nginx,docker,githubactions&theme=dark" />
-
-      </td>
-      <td align="center" width="25%">
-
-      **Quality & Tools**<br/>
-      <img src="https://skillicons.dev/icons?i=vitest,git,vscode,azure&theme=dark" />
-
-      </td>
-      </tr>
-      </table>
-
-      </div>
-
-      <br/>
-
-      <!---------------------------------------------------------------------------->
-      <!-- DIVIDER -->
-      <!---------------------------------------------------------------------------->
-
-      <div align="center">
-      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-      </div>
-
-      <br/>
-
-      <!---------------------------------------------------------------------------->
-      <!-- STATS -->
-      <!---------------------------------------------------------------------------->
-
-      ## &nbsp;`$ git log --stats`
-
-      <div align="center">
-
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=nulldevelop&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&icon_color=b8973a&text_color=8b8070&ring_color=c9a84c&include_all_commits=true&count_private=true" />
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulldevelop&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&text_color=8b8070&langs_count=8" />
-
-      </div>
-
-      <br/>
-
-      <div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nulldevelop&theme=github-dark-blue&hide_border=true&background=0a0a0a&stroke=c9a84c&ring=c9a84c&fire=b8973a&currStreakLabel=c9a84c&sideLabels=8b8070&currStreakNum=e8e8e0&sideNums=e8e8e0&dates=8b8070" />
-      </div>
-
-      <br/>
-
-      <!---------------------------------------------------------------------------->
-      <!-- ACTIVITY GRAPH -->
-      <!---------------------------------------------------------------------------->
-
-      <div align="center">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nulldevelop&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=c9a84c&line=b8973a&point=c9a84c&area=true&area_color=1c1500" />
-      </div>
-
-      <br/>
-
-      <!---------------------------------------------------------------------------->
-      <!-- DIVIDER -->
-      <!---------------------------------------------------------------------------->
-
-      <div align="center">
-      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-      </div>
-
-      <br/>
-
-      <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=nulldevelop&color=c9a84c&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0a0a0a"/>
-      </div>
-
-      <br/>
-
-      <div align="center">
-      <sup>◆ &nbsp;&nbsp;<i>"From concept to product — speed, quality and real results."</i>&nbsp;&nbsp; ◆</sup>
-      </div>
-
-      <br/>
-
-      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1500,60:0d0d0d,100:0a0a0a&height=120&section=footer"/>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
+
+</div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!-- DIVIDER -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!-- TECH STACK -->
+<!---------------------------------------------------------------------------->
+
+## &nbsp;`$ cat ./stack.json`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+**Backend & DB**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+**DevOps & Infra**<br/>
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,githubactions&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+**Quality & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=vitest,git,vscode,azure&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!-- DIVIDER -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!-- STATS -->
+<!---------------------------------------------------------------------------->
+
+## &nbsp;`$ git log --stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nulldevelop&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&icon_color=b8973a&text_color=8b8070&ring_color=c9a84c&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulldevelop&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&text_color=8b8070&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nulldevelop&theme=github-dark-blue&hide_border=true&background=0a0a0a&stroke=c9a84c&ring=c9a84c&fire=b8973a&currStreakLabel=c9a84c&sideLabels=8b8070&currStreakNum=e8e8e0&sideNums=e8e8e0&dates=8b8070" />
+</div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!-- ACTIVITY GRAPH -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nulldevelop&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=c9a84c&line=b8973a&point=c9a84c&area=true&area_color=1c1500" />
+</div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!-- DIVIDER -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=nulldevelop&color=c9a84c&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0a0a0a"/>
+</div>
+
+<br/>
+
+<div align="center">
+<sup>◆ &nbsp;&nbsp;<i>"From concept to product — speed, quality and real results."</i>&nbsp;&nbsp; ◆</sup>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1500,60:0d0d0d,100:0a0a0a&height=120&section=footer"/>
