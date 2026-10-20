@@ -2,7 +2,7 @@
 <!-- HEADER -->
 <!---------------------------------------------------------------------------->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:0d0d0d,100:1c1500&height=220&section=header&text=Pedro%20Andrade&fontSize=52&fontColor=c9a84c&fontAlignY=40&animation=fadeIn&desc=%E2%97%86%20Full%20Stack%20Developer%20%E2%97%86%20Gov%20SaaS%20%E2%97%86%20null.dev&descSize=15&descColor=6b5f3a&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:0d0d0d,100:1c1500&height=220&section=header&text=Pedro%20Andrade&fontSize=52&fontColor=c9a84c&fontAlignY=40&animation=fadeIn&desc=%E2%97%86%20Full%20Stack%20Developer%20%E2%97%86%20SaaS%20%26%20Web%20Systems%20%E2%97%86%20null.dev&descSize=15&descColor=6b5f3a&descAlignY=60"/>
 
 <!---------------------------------------------------------------------------->
 <!-- TYPING + BADGES -->
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=C9A84C&center=true&vCenter=true&random=false&width=640&lines=Real+systems+in+production+%E2%80%94+not+just+portfolio+projects.;Next.js+%7C+TypeScript+%7C+Prisma+%7C+MySQL+%7C+Linux;6+products+in+production+%E2%80%94+2+SaaS+monetized+with+Stripe.;null.dev+%E2%80%94+From+concept+to+final+product.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=C9A84C&center=true&vCenter=true&random=false&width=640&lines=Real+systems+in+production+%E2%80%94+not+just+portfolio+projects.;Next.js+%7C+TypeScript+%7C+Prisma+%7C+MySQL+%7C+Linux;3+products+in+production+%E2%80%94+1+SaaS+monetized+with+Stripe.;null.dev+%E2%80%94+From+concept+to+final+product.)](https://git.io/typing-svg)
 
 </div>
 
@@ -61,7 +61,7 @@ const pedro: Developer = {
   name    : "Pedro Henrique Andrade",
   company : "Null Development ◆ nulldev.com.br",
   location: "Campina Grande do Sul, Paraná — Brazil 🇧🇷",
-  focus   : "SaaS for the public sector · High-performance web systems",
+  focus   : "Multi-tenant SaaS · High-performance web systems",
 
   stack: {
     frontend : ["Next.js 15", "React", "TypeScript", "Tailwind CSS", "shadcn/ui"],
@@ -73,7 +73,8 @@ const pedro: Developer = {
     rendering: ["@react-pdf/renderer", "TipTap"],
   },
 
-  inProduction: ["SIRA", "FootEasy", "BookEase", "AutoSystem", "Narrativa", "Rancho Capivari"],
+  inProduction: ["AutoSystem", "Narrativa", "Rancho Capivari"],
+  clientWork  : ["SIRA", "FootEasy", "BookEase"],
   education   : "Systems Analysis and Development · UFBRA",
   philosophy  : "I'm not passionate about technology — I'm passionate about solving problems.",
 };
@@ -89,7 +90,7 @@ const pedro: Developer = {
 
 | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; |
 |:---:|:---:|:---:|:---:|
-| **3+** | **6** | **24** | **100%** |
+| **3+** | **3** | **20+** | **100%** |
 | years of experience | products in production | technologies | satisfied clients |
 
 </div>
@@ -112,57 +113,13 @@ const pedro: Developer = {
 
 ## &nbsp;`$ ls ./production`
 
-> These are not demos or study projects. They are systems used daily by public servants, citizens and real clients.
+> Products I designed, built and shipped end to end — architecture, code and infrastructure.
 
 <br/>
 
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**◆ &nbsp;[SIRA](https://sira.pmcgs.pr.gov.br)**
-<br/>Integrated Administrative Records System &nbsp;·&nbsp; `active`
-
-Public contract oversight platform with digitally signed PDF reports, QR Code for public verification, full RBAC and Azure AD SSO integration with the Transparency Portal.
-
-![Next.js](https://img.shields.io/badge/Next.js_15-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
-![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
-![MySQL](https://img.shields.io/badge/MySQL_8-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
-![Azure](https://img.shields.io/badge/Azure_AD-0a0a0a?style=flat-square&logo=microsoftazure&logoColor=c9a84c)
-
-</td>
-<td width="50%" valign="top">
-
-**◆ &nbsp;FootEasy**
-<br/>Municipal Championship Management &nbsp;·&nbsp; `active`
-
-Sports competition management in production with 772 members, 24 teams and 693 registered athletes. Includes bracket generation, digital match reports and athlete validation.
-
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
-![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=c9a84c)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**◆ &nbsp;BookEase**
-<br/>Multi-tenant Library SaaS &nbsp;·&nbsp; `completed · Nov 2025`
-
-Collection and lending management for municipalities with DDC classification, PDF reports and Azure AD authentication. Delivered and handed off.
-
-![Next.js](https://img.shields.io/badge/Next.js_15-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
-![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
-![Better Auth](https://img.shields.io/badge/Better_Auth-0a0a0a?style=flat-square&logoColor=c9a84c)
-![MySQL](https://img.shields.io/badge/MySQL_8-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
-![Chart.js](https://img.shields.io/badge/Chart.js-0a0a0a?style=flat-square&logo=chartdotjs&logoColor=c9a84c)
-
-</td>
 <td width="50%" valign="top">
 
 **◆ &nbsp;[AutoSystem](https://autosystem.nulldev.com.br)**
@@ -177,8 +134,6 @@ Multi-tenant platform for mechanical workshops: quotes converted into service or
 ![Stripe](https://img.shields.io/badge/Stripe-0a0a0a?style=flat-square&logo=stripe&logoColor=c9a84c)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **◆ &nbsp;[Narrativa](https://narrativa.blog)**
@@ -193,6 +148,8 @@ Editorial platform in production with TipTap rich editor (tables, code blocks, m
 ![Better Auth](https://img.shields.io/badge/Better_Auth-0a0a0a?style=flat-square&logoColor=c9a84c)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **◆ &nbsp;[Rancho Capivari](https://ranchocapivari.com.br)**
@@ -207,6 +164,84 @@ Reservation and institutional site for two cabins 45 min from Curitiba. Static e
 ![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=c9a84c)
 
 </td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!-- DIVIDER -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!-- CLIENT WORK -->
+<!---------------------------------------------------------------------------->
+
+## &nbsp;`$ ls ./client-work`
+
+> Systems built under contract for the municipality — source code belongs to the client, details available in private conversations.
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**◆ &nbsp;SIRA**
+<br/>Integrated Administrative Records System
+<br/><sub>`client: Campina Grande do Sul` · `role: Full Stack Developer` · `contract`</sub>
+
+Public contract oversight platform. Delivered: RBAC, Azure AD SSO with the Transparency Portal, digitally signed PDF reports and public QR Code verification.
+
+![Next.js](https://img.shields.io/badge/Next.js_15-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
+![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
+![MySQL](https://img.shields.io/badge/MySQL_8-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
+![Azure](https://img.shields.io/badge/Azure_AD-0a0a0a?style=flat-square&logo=microsoftazure&logoColor=c9a84c)
+
+</td>
+<td width="50%" valign="top">
+
+**◆ &nbsp;FootEasy**
+<br/>Municipal Championship Management
+<br/><sub>`client: Campina Grande do Sul` · `role: Full Stack Developer` · `contract`</sub>
+
+Sports competition management — 772 members, 24 teams and 693 athletes. Delivered: bracket generation, digital match reports and athlete validation.
+
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
+![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=c9a84c)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**◆ &nbsp;BookEase**
+<br/>Multi-tenant Library SaaS &nbsp;·&nbsp; `delivered · Nov 2025`
+<br/><sub>`client: Campina Grande do Sul` · `role: Full Stack Developer` · `contract`</sub>
+
+Collection and lending management for municipalities. Delivered: DDC classification, lending flow, PDF reports and Azure AD authentication.
+
+![Next.js](https://img.shields.io/badge/Next.js_15-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
+![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
+![Better Auth](https://img.shields.io/badge/Better_Auth-0a0a0a?style=flat-square&logoColor=c9a84c)
+![MySQL](https://img.shields.io/badge/MySQL_8-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
+![Chart.js](https://img.shields.io/badge/Chart.js-0a0a0a?style=flat-square&logo=chartdotjs&logoColor=c9a84c)
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 </div>
