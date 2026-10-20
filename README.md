@@ -2,7 +2,7 @@
 <!-- HEADER -->
 <!---------------------------------------------------------------------------->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:0d0d0d,100:1c1500&height=220&section=header&text=Pedro%20Andrade&fontSize=52&fontColor=c9a84c&fontAlignY=40&animation=fadeIn&desc=%E2%97%86%20Full%20Stack%20Developer%20%E2%97%86%20SaaS%20%26%20Web%20Systems%20%E2%97%86%20null.dev&descSize=15&descColor=6b5f3a&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:0d0d0d,100:1c1500&height=220&section=header&text=Pedro%20Andrade&fontSize=52&fontColor=c9a84c&fontAlignY=40&animation=fadeIn&desc=%E2%97%86%20Full%20Stack%20Developer%20%E2%97%86%20SaaS%20%C2%B7%20Web%20Systems%20%E2%97%86%20null.dev&descSize=15&descColor=6b5f3a&descAlignY=60"/>
 
 <!---------------------------------------------------------------------------->
 <!-- TYPING + BADGES -->
