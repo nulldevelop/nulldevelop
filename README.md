@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=C9A84C&center=true&vCenter=true&random=false&width=640&lines=Real+systems+in+production+%E2%80%94+not+just+portfolio+projects.;Next.js+%7C+TypeScript+%7C+Prisma+%7C+MySQL+%7C+Linux;5+active+and+growing+municipal+SaaS+platforms.;null.dev+%E2%80%94+From+concept+to+final+product.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=C9A84C&center=true&vCenter=true&random=false&width=640&lines=Real+systems+in+production+%E2%80%94+not+just+portfolio+projects.;Next.js+%7C+TypeScript+%7C+Prisma+%7C+MySQL+%7C+Linux;6+products+in+production+%E2%80%94+2+SaaS+monetized+with+Stripe.;null.dev+%E2%80%94+From+concept+to+final+product.)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,9 +69,11 @@ const pedro: Developer = {
     database : ["MySQL", "MariaDB", "PostgreSQL"],
     devops   : ["Linux/VPS", "Nginx", "PM2", "GitHub Actions", "Docker"],
     quality  : ["Vitest", "Biome", "TypeScript strict"],
+    payments : ["Stripe"],
+    rendering: ["@react-pdf/renderer", "TipTap"],
   },
 
-  inProduction: ["SIRA", "FootEasy", "SIBEA", "SME"],
+  inProduction: ["SIRA", "FootEasy", "BookEase", "AutoSystem", "Narrativa", "Rancho Capivari"],
   education   : "Systems Analysis and Development · UFBRA",
   philosophy  : "I'm not passionate about technology — I'm passionate about solving problems.",
 };
@@ -87,8 +89,8 @@ const pedro: Developer = {
 
 | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; |
 |:---:|:---:|:---:|:---:|
-| **3+** | **5** | **20+** | **100%** |
-| years of experience | SaaS in production | technologies | satisfied clients |
+| **3+** | **6** | **24** | **100%** |
+| years of experience | products in production | technologies | satisfied clients |
 
 </div>
 
@@ -110,7 +112,7 @@ const pedro: Developer = {
 
 ## &nbsp;`$ ls ./production`
 
-> These are not demos or study projects. They are systems used daily by public servants and citizens of the municipality of Campina Grande do Sul — PR.
+> These are not demos or study projects. They are systems used daily by public servants, citizens and real clients.
 
 <br/>
 
@@ -149,38 +151,6 @@ Sports competition management in production with 772 members, 24 teams and 693 r
 <tr>
 <td width="50%" valign="top">
 
-**◆ &nbsp;SIBEA**
-<br/>Animal Welfare System &nbsp;·&nbsp; `active`
-
-Multi-tenant SaaS for municipal animal welfare management with RBAC across five profiles, microchip tracking and public REST API for adoption portals.
-
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
-![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
-![Better Auth](https://img.shields.io/badge/Better_Auth-0a0a0a?style=flat-square&logoColor=c9a84c)
-![Radix UI](https://img.shields.io/badge/Radix_UI-0a0a0a?style=flat-square&logo=radixui&logoColor=c9a84c)
-
-</td>
-<td width="50%" valign="top">
-
-**◆ &nbsp;SME**
-<br/>Municipal Sports Schools System &nbsp;·&nbsp; `in development`
-
-Management platform for municipal sports schools with class and attendance control, medical records, automatic waitlist and full audit trail.
-
-![Next.js](https://img.shields.io/badge/Next.js_15-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
-![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
-![MariaDB](https://img.shields.io/badge/MariaDB-0a0a0a?style=flat-square&logo=mariadb&logoColor=c9a84c)
-![Better Auth](https://img.shields.io/badge/Better_Auth-0a0a0a?style=flat-square&logoColor=c9a84c)
-![Vitest](https://img.shields.io/badge/Vitest-0a0a0a?style=flat-square&logo=vitest&logoColor=c9a84c)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **◆ &nbsp;BookEase**
 <br/>Multi-tenant Library SaaS &nbsp;·&nbsp; `completed · Nov 2025`
 
@@ -191,6 +161,93 @@ Collection and lending management for municipalities with DDC classification, PD
 ![Better Auth](https://img.shields.io/badge/Better_Auth-0a0a0a?style=flat-square&logoColor=c9a84c)
 ![MySQL](https://img.shields.io/badge/MySQL_8-0a0a0a?style=flat-square&logo=mysql&logoColor=c9a84c)
 ![Chart.js](https://img.shields.io/badge/Chart.js-0a0a0a?style=flat-square&logo=chartdotjs&logoColor=c9a84c)
+
+</td>
+<td width="50%" valign="top">
+
+**◆ &nbsp;[AutoSystem](https://autosystem.nulldev.com.br)**
+<br/>Workshop Management SaaS &nbsp;·&nbsp; `active`
+
+Multi-tenant platform for mechanical workshops: quotes converted into service orders, digital signature via public link (no login), Stripe subscriptions with 14-day trial, PDF documents, inventory and offline-capable PWA.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
+![React](https://img.shields.io/badge/React_19-0a0a0a?style=flat-square&logo=react&logoColor=c9a84c)
+![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=c9a84c)
+![Stripe](https://img.shields.io/badge/Stripe-0a0a0a?style=flat-square&logo=stripe&logoColor=c9a84c)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**◆ &nbsp;[Narrativa](https://narrativa.blog)**
+<br/>Multi-author Blog CMS &nbsp;·&nbsp; `active`
+
+Editorial platform in production with TipTap rich editor (tables, code blocks, media), RBAC by organization, newsletter with double opt-in and self-hosted media pipeline.
+
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
+![Prisma](https://img.shields.io/badge/Prisma_7-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
+![MariaDB](https://img.shields.io/badge/MariaDB-0a0a0a?style=flat-square&logo=mariadb&logoColor=c9a84c)
+![Better Auth](https://img.shields.io/badge/Better_Auth-0a0a0a?style=flat-square&logoColor=c9a84c)
+
+</td>
+<td width="50%" valign="top">
+
+**◆ &nbsp;[Rancho Capivari](https://ranchocapivari.com.br)**
+<br/>Rural Cabin Booking Site &nbsp;·&nbsp; `active`
+
+Reservation and institutional site for two cabins 45 min from Curitiba. Static export on CDN, availability calendar synced via ICS, premium editorial design with Framer Motion and Vercel Analytics.
+
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=c9a84c)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0a0a0a?style=flat-square&logo=framer&logoColor=c9a84c)
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=c9a84c)
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!-- DIVIDER -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+</div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!-- DEVELOPMENT PROJECTS -->
+<!---------------------------------------------------------------------------->
+
+## &nbsp;`$ ls ./development`
+
+> Currently being built and iterated in public.
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**◆ &nbsp;ScopeFlow**
+<br/>Freelance Pricing & Quoting SaaS &nbsp;·&nbsp; `in development`
+
+Lead-to-contract pipeline for developers and software houses: lead scoring with domain diagnostics, quotes and proposals, digital contract signature, PDF export and seniority-based pricing engine.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
+![React](https://img.shields.io/badge/React_19-0a0a0a?style=flat-square&logo=react&logoColor=c9a84c)
+![Prisma](https://img.shields.io/badge/Prisma_7-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=c9a84c)
+![Recharts](https://img.shields.io/badge/Recharts-0a0a0a?style=flat-square&logo=recharts&logoColor=c9a84c)
 
 </td>
 <td width="50%" valign="top"></td>
@@ -222,13 +279,13 @@ Collection and lending management for municipalities with DDC classification, PD
 <td align="center" width="25%">
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,motion&theme=dark" />
 
 </td>
 <td align="center" width="25%">
 
 **Backend & DB**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres,stripe&theme=dark" />
 
 </td>
 <td align="center" width="25%">
@@ -307,7 +364,7 @@ Collection and lending management for municipalities with DDC classification, PD
 <br/>
 
 <div align="center">
-<sup>◆ &nbsp;&nbsp;<i>"From concept to product — speed, quality and real results."</i>&nbsp;&nbsp; ◆</sup>
+<sup>◆ &nbsp;&nbsp;<i>"From concept to product — multi-tenant SaaS, Stripe billing, digital signatures and RBAC in production."</i>&nbsp;&nbsp; ◆</sup>
 </div>
 
 <br/>
