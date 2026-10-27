@@ -47,10 +47,11 @@
 | **Role** | Full Stack Developer — Next.js / TypeScript / Node.js |
 | **Focus** | Multi-tenant SaaS, billing, RBAC, PDF/e-signature flows, admin dashboards |
 | **Proof** | 3 products live in production, built and operated by me, end to end |
-| **Also built** | Systems for a Brazilian city government (contract work) |
+| **Also built** | Internal systems for a Brazilian city government (Apr 2025 – May 2026) |
 | **Location** | Campina Grande do Sul, Paraná — Brazil 🇧🇷 |
 | **Education** | Systems Analysis and Development · Uniasselvi (since Aug 2026) |
-| **Status** | ◆ Open to opportunities |
+| **Learning** | C# / .NET (ASP.NET Core Web API) and Angular |
+| **Status** | ◆ Open to opportunities — CLT or PJ · remote, hybrid or on-site in Curitiba and region |
 
 </div>
 
@@ -84,7 +85,7 @@ const pedro: Developer = {
     frontend : ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS 4", "shadcn/ui"],
     backend  : ["Node.js", "Prisma ORM", "Better Auth", "Zod", "REST APIs", "Go (agents)"],
     database : ["PostgreSQL", "MySQL", "MariaDB"],
-    devops   : ["Linux/VPS", "Nginx", "PM2", "GitHub Actions", "Docker"],
+    devops   : ["Linux/VPS", "Nginx", "PM2", "Windows Server/IIS", "GitHub Actions", "Docker", "AWS", "Azure"],
     quality  : ["Vitest", "Biome", "TypeScript strict"],
     payments : ["AbacatePay (subscriptions + webhooks)"],
     integrate: ["WhatsApp Cloud API", "Azure AD / SSO", "LDAP", "SMTP / Resend"],
@@ -92,7 +93,8 @@ const pedro: Developer = {
   },
 
   inProduction: ["AutoSystem", "Narrativa", "Rancho Capivari"],
-  inBuilding  : ["ScopeFlow"],
+  inBuilding  : ["ScopeFlow", "Saideira PDV"],
+  learning    : ["C# / .NET (ASP.NET Core)", "Angular"],
   education   : "Systems Analysis and Development · Uniasselvi",
   philosophy  : "I'm not passionate about technology — I'm passionate about solving problems.",
 };
@@ -104,7 +106,7 @@ const pedro: Developer = {
 
 | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; | &nbsp;&nbsp;⬡&nbsp;&nbsp; |
 |:---:|:---:|:---:|:---:|
-| **3+** | **3** | **11** | **20+** |
+| **3+** | **3** | **12** | **20+** |
 | years of experience | products in production | personal projects built | technologies |
 
 </div>
@@ -192,6 +194,23 @@ Lead-to-contract pipeline for developers and software houses: clients and leads,
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**◆ &nbsp;Saideira PDV**
+<br/>Cloud POS for liquor stores & tobacconists<br/>![dev](https://img.shields.io/badge/◐_IN_DEVELOPMENT-0a0a0a?style=flat-square&labelColor=0a0a0a&color=0a0a0a) [![site](https://img.shields.io/badge/Visit_site-c9a84c?style=flat-square&labelColor=0a0a0a&logo=googlechrome&logoColor=c9a84c)](https://saideirapdv.com.br)
+
+Offline-first point of sale (PWA) that understands unit, pack, case and carton. Cash register control, tables and tabs with QR menu, supplier invoices from SEFAZ and PIX subscription billing, on a multi-tenant monorepo.
+
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=c9a84c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c9a84c)
+![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=c9a84c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=c9a84c)
+![Turborepo](https://img.shields.io/badge/Turborepo-0a0a0a?style=flat-square&logo=turborepo&logoColor=c9a84c)
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 </div>
 
@@ -233,7 +252,7 @@ Lead-to-contract pipeline for developers and software houses: clients and leads,
 
 ## &nbsp;`$ ls ./client-work`
 
-> **Full Stack Developer on contract** with the development team of the **Prefeitura de Campina Grande do Sul**. Source code belongs to the client; details available in private conversations.
+> **Full Stack Developer at the Prefeitura de Campina Grande do Sul · Apr 2025 – May 2026.** Internal web systems from requirements to production: front-end performance work (-40% page load), Windows Server/IIS deploys with GitHub Actions self-hosted runners, and technical support on IT procurement (Law 14.133/2021). Source code belongs to the client; details available in private conversations.
 
 <br/>
 
