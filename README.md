@@ -33,7 +33,7 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:c9a84c,100:0a0a0a&height=3"/>
 </div>
 
 <br/>
@@ -66,7 +66,7 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:c9a84c,100:0a0a0a&height=3"/>
 </div>
 
 <br/>
@@ -112,7 +112,7 @@ const pedro: Developer = {
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:c9a84c,100:0a0a0a&height=3"/>
 </div>
 
 <br/>
@@ -128,8 +128,8 @@ const pedro: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-**◆ &nbsp;[AutoSystem](https://autosystem.nulldev.com.br)**
-<br/>Workshop Management SaaS &nbsp;·&nbsp; `live` &nbsp;·&nbsp; `paid plans`
+**◆ &nbsp;AutoSystem**
+<br/>Workshop Management SaaS<br/>![live](https://img.shields.io/badge/●_LIVE-c9a84c?style=flat-square&labelColor=0a0a0a) ![paid](https://img.shields.io/badge/PAID_PLANS-0a0a0a?style=flat-square&labelColor=0a0a0a&color=0a0a0a&logoColor=c9a84c) [![site](https://img.shields.io/badge/Visit_site-c9a84c?style=flat-square&labelColor=0a0a0a&logo=googlechrome&logoColor=c9a84c)](https://autosystem.nulldev.com.br) [![repo](https://img.shields.io/badge/Source-0a0a0a?style=flat-square&logo=github&logoColor=c9a84c)](https://github.com/opedrodotdev/autosystem)
 
 Multi-tenant platform for mechanical workshops. Quotes become service orders, customers approve through a public link with digital signature (no login), and stock and finances follow every job.
 
@@ -146,8 +146,8 @@ Multi-tenant platform for mechanical workshops. Quotes become service orders, cu
 </td>
 <td width="50%" valign="top">
 
-**◆ &nbsp;[Narrativa](https://narrativa.blog)**
-<br/>Multi-author Blog CMS &nbsp;·&nbsp; `live` &nbsp;·&nbsp; `client project`
+**◆ &nbsp;Narrativa**
+<br/>Multi-author Blog CMS<br/>![live](https://img.shields.io/badge/●_LIVE-c9a84c?style=flat-square&labelColor=0a0a0a) ![client](https://img.shields.io/badge/CLIENT_PROJECT-0a0a0a?style=flat-square&labelColor=0a0a0a&color=0a0a0a) [![site](https://img.shields.io/badge/Visit_site-c9a84c?style=flat-square&labelColor=0a0a0a&logo=googlechrome&logoColor=c9a84c)](https://narrativa.blog) [![repo](https://img.shields.io/badge/Source-0a0a0a?style=flat-square&logo=github&logoColor=c9a84c)](https://github.com/nulldevelop/narrativa-blog)
 
 Editorial platform with a TipTap rich editor (tables, code blocks, images, video), per-organization RBAC, article preview before publishing, newsletter with double opt-in and a self-hosted media pipeline.
 
@@ -165,8 +165,8 @@ Editorial platform with a TipTap rich editor (tables, code blocks, images, video
 <tr>
 <td width="50%" valign="top">
 
-**◆ &nbsp;[Rancho Capivari](https://ranchocapivari.com.br)**
-<br/>Rural Cabin Booking Site &nbsp;·&nbsp; `live` &nbsp;·&nbsp; `client project`
+**◆ &nbsp;Rancho Capivari**
+<br/>Rural Cabin Booking Site<br/>![live](https://img.shields.io/badge/●_LIVE-c9a84c?style=flat-square&labelColor=0a0a0a) ![client](https://img.shields.io/badge/CLIENT_PROJECT-0a0a0a?style=flat-square&labelColor=0a0a0a&color=0a0a0a) [![site](https://img.shields.io/badge/Visit_site-c9a84c?style=flat-square&labelColor=0a0a0a&logo=googlechrome&logoColor=c9a84c)](https://ranchocapivari.com.br)
 
 Reservation and institutional site for two cabins 45 min from Curitiba. Static export on CDN, availability calendar synced via ICS, structured data (JSON-LD) for SEO and editorial design with Framer Motion.
 
@@ -179,8 +179,8 @@ Reservation and institutional site for two cabins 45 min from Curitiba. Static e
 </td>
 <td width="50%" valign="top">
 
-**◆ &nbsp;[ScopeFlow](https://github.com/nulldevelop/scopeflow)**
-<br/>Freelance Pricing & Quoting SaaS &nbsp;·&nbsp; `in development`
+**◆ &nbsp;ScopeFlow**
+<br/>Freelance Pricing & Quoting SaaS<br/>![dev](https://img.shields.io/badge/◐_IN_DEVELOPMENT-0a0a0a?style=flat-square&labelColor=0a0a0a&color=0a0a0a) [![repo](https://img.shields.io/badge/Source-0a0a0a?style=flat-square&logo=github&logoColor=c9a84c)](https://github.com/nulldevelop/scopeflow)
 
 Lead-to-contract pipeline for developers and software houses: clients and leads, reusable features by category, quotes with seniority-based pricing, contracts and PDF export, with subscription billing.
 
@@ -198,7 +198,7 @@ Lead-to-contract pipeline for developers and software houses: clients and leads,
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:c9a84c,100:0a0a0a&height=3"/>
 </div>
 
 <br/>
@@ -215,8 +215,8 @@ Lead-to-contract pipeline for developers and software houses: clients and leads,
 |:---|:---|:---|
 | **[Inventory](https://github.com/nulldevelop/inventory)** | Windows hardware inventory and monitoring | **Go** agent running as a Windows service/MSI, Next.js dashboard, hardware-change diff by serial fingerprint, remote commands, auto-updating agent |
 | **[Forge](https://github.com/nulldevelop/forge)** | Project generator in the browser | Pick framework, ORM, database, auth and UI, then download a ready-to-run `.zip` |
-| **[Futly](https://github.com/nulldevelop/futly)** | Amateur football championship management | Multi-organization, teams, players, fixtures, top scorers, PDF documents, MySQL |
-| **PNR** ([repo](https://github.com/nulldevelop/pnr-bld)) | Web + mobile monorepo | pnpm workspaces, Next.js and Expo sharing Zod schemas and an API client, admin/driver roles |
+| **Futly** | Amateur football championship management | Multi-organization, teams, players, fixtures, top scorers, PDF documents, MySQL |
+| **PNR** | Web + mobile monorepo | pnpm workspaces, Next.js and Expo sharing Zod schemas and an API client, admin/driver roles |
 | **Leadtec** | Lead prospecting dashboard | Google Maps lead collection, website/domain check, opportunity score and sales pipeline |
 | **Null Development site** | Company portfolio and admin panel | Public portfolio, admin CRUD, React Three Fiber hero, PostgreSQL |
 | **ABI Barter Guide** | Game trade catalog (Arena Breakout: Infinite) | Searchable barters by trader, admin panel, PostgreSQL |
@@ -226,7 +226,7 @@ Lead-to-contract pipeline for developers and software houses: clients and leads,
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:c9a84c,100:0a0a0a&height=3"/>
 </div>
 
 <br/>
@@ -296,7 +296,7 @@ Animal welfare and adoption (SIBEA), municipal social projects with attendance a
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:c9a84c,100:0a0a0a&height=3"/>
 </div>
 
 <br/>
@@ -337,7 +337,7 @@ Animal welfare and adoption (SIBEA), municipal social projects with attendance a
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:c9a84c,100:0a0a0a&height=3"/>
 </div>
 
 <br/>
@@ -360,7 +360,7 @@ Animal welfare and adoption (SIBEA), municipal social projects with attendance a
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:c9a84c,100:0a0a0a&height=3"/>
 </div>
 
 <br/>
